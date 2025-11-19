@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <Servo.h>
 #include <math.h>
 
@@ -255,18 +256,3 @@ void loop() {
   draw_heart(1000, 2, 100, 0, 230, -95);
   // draw_line(3000, 115, 250, 50, -90, 0, 200, 50);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//
